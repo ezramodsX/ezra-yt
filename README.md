@@ -1,4 +1,4 @@
-# ezra-yt# Ezra Youtube Downloader #teamezra
+# ezra-yt# Ezra Youtube Downloader #
 
 ### EZRA YOUTUBE DOWNLOADER👋
 
@@ -54,11 +54,11 @@ bash setup.sh
 
 
 ## License:
-[![GitHub](https://img.shields.io/github/license/teamezra/ezra-yt?color=blue)](https://github.com/ezramodsX/ezra-yt/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/github/license//ezra-yt?color=blue)](https://github.com/ezramodsX/ezra-yt/blob/main/LICENSE)
 
 - If you need more help:
     - <a href=""><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 ---
 
 ## Follow on:
-<a href="https://github.com/ezramodsX/ezra-yt/blob/main/README.md"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a> <a href="https://twitter.com/teamezra"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a> <a href="https://facebook.com/teamezra"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a> <a href="https://instagram.com/__tm_ezra__?utm_medium=copy_link"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
+<a href="https://github.com/ezramodsX/ezra-yt/blob/main/README.md"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a> <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a> <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a> <a href="https://instagram.com/?utm_medium=copy_link"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
